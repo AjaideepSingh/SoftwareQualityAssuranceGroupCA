@@ -3,7 +3,8 @@
 ## What is Code Review?
 Code review is a software quality assurance activity where by source code is viewed and assessed by one or several people. Code reviews occur when there is a completion of a software develeopment feature or as a safeguard in prevention of errors. At least one of the persons must not be the code's author.
 
-## Code Review Process
+# Code Review Process
+ [Article link](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
 ![Code review process](code_review_process.png)
 
 - Author sends piece of code to be reviewed
@@ -16,11 +17,11 @@ Code review is a software quality assurance activity where by source code is vie
 
 ## Anecdotal Resources
 
-There are many forms of evidence online to portray the importance of code review, and the consequences of not having code up to standard. Code reviewers are very harsh when it comes to critiquing. 
+There are many forms of evidence online to portray the importance of code review, and the consequences of not having code up to standard. Code reviewers are very harsh when it comes to critiquing.
 
 ![The Fussy Reviewer](code_reviewer_image.png)
 
-The following quote is extracted from **'I ruin developers’ lives with my code reviews and I'm sorry'** by Philipp Ranzhin.
+The following quote is extracted from ['I ruin developers’ lives with my code reviews and I'm sorry'](https://habr.com/en/post/440736/) by Philipp Ranzhin.
 
 > Once upon a time there was a guy on my team so weak that he was 
 > going to be fired (a developer! Fired!).
@@ -30,5 +31,12 @@ The following quote is extracted from **'I ruin developers’ lives with my code
 > I had an inalienable right to criticize his work, right? I’m a better developer, therefore I’m right. 
 >No one wants to say that bad code is good, right? He was eventually fired, not before leaving him without the customary bonus for a couple months.
 
+# Why we review code?
+[Article link](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
+The following are reasons why companies and individuals should implement code reviews processes into their projects.
 
-
+1. Consistant design and implementation
+2. Minimizing your mistakes and their impacts
+3. Insuring project meeting requirements
+4. Improving code performance
+5. Sharing new techniques
