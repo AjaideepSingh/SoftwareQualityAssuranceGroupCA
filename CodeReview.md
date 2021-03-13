@@ -1,10 +1,10 @@
 # Code Review
 
 ## What is Code Review?
-Code review is a software quality assurance activity where by source code is viewed and assessed by one or several people. Code reviews occur when there is a completion of a software develeopment feature or as a safeguard in prevention of errors. At least one of the persons must not be the code's author.
+Code review is a software quality assurance activity where by source code is viewed and assessed by one or several people. Code reviews occur when there is a completion of a software develeopment feature or as a safeguard in prevention of errors. At least one of the persons must not be the code's author. Code review is a common practice adopted in software development to improve software code quality based on static code analysis by peers and automated reviewers. There are studies that provide evidence that it reduces the number of defects detected after release
 
 # Code Review Process
- [Article link](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
+ [Article](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
 ![Code review process](code_review_process.png)
 
 - Author sends piece of code to be reviewed
@@ -31,8 +31,16 @@ The following quote is extracted from ['I ruin developers’ lives with my code 
 > I had an inalienable right to criticize his work, right? I’m a better developer, therefore I’m right. 
 >No one wants to say that bad code is good, right? He was eventually fired, not before leaving him without the customary bonus for a couple months.
 
+Companies should adopt this ad-hoc approach to code reviews
+
+To further strengthen our points on the importance on code reviews here is a quote from Jeff Atwood who is the co-founder of Stack Overflow which is an online question and answer tool to aid programmers around the world. This tool has over 10 million users.
+
+> We have a strict but informal procedure for reviewing codes: code changes should never go to production before they are reviewed (even for small bug fixes).
+> In our team code reviews are not just a senior team member reviewing a junior team member’s code; code reviews should happen across the team, in every direction.
+> Best practices we follow to have smooth and painless code review include defining short user stories, generating short code review tasks (in terms of time), combining code review with functional testing, and performing non-blocking code reviews.
+
 # Why we review code?
-[Article link](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
+[Article](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
 The following are reasons why companies and individuals should implement code reviews processes into their projects.
 
 1. Consistant design and implementation
@@ -40,3 +48,7 @@ The following are reasons why companies and individuals should implement code re
 3. Insuring project meeting requirements
 4. Improving code performance
 5. Sharing new techniques
+
+[Article](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
+Code review helps give a fresh set of eyes to identify bugs and simple coding errors before your product gets to the next step, making the process for getting the software to the customer more efficient. Simply reviewing someone’s code and identifying errors is great. However, when it comes to the code peer review process there also needs to be a level of follow-up and accountability. Make sure there is process in place for checking back in to confirm code discrepancies have been addressed before moving into production.
+
