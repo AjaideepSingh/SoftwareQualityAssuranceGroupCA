@@ -40,25 +40,25 @@ The final step is to decide in what order the work needs to be carried out. As t
 - Fix any issues found in release branch.
 - Complete Release.
 
-###  Ajideep Tasks
+###  Ajaideep's Tasks
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
 * Include images and diagrams.
 
-### Niall Tasks
+### Niall's Tasks
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
 * Include images and diagrams.
 
-### Ella Tasks
+### Ella's Tasks
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
 * Include images and diagrams.
 
-### Cormac Tasks
+### Cormac's Tasks
 
 * Find 2-3 articles. 
 * Write 200-300 on the topic.
