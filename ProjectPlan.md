@@ -44,22 +44,22 @@ The final step is to decide in what order the work needs to be carried out. As t
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
-* Include diagrams.
+* Include images and diagrams.
 
 ### Niall Tasks
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
-* Include diagrams.
+* Include images and diagrams.
 
 ### Ella Tasks
 
 * Find 2-3 articles.
 * Write 200-300 on the topic.
-* Include diagrams.
+* Include images and diagrams.
 
 ### Cormac Tasks
 
 * Find 2-3 articles. 
 * Write 200-300 on the topic.
-* Include diagrams.
+* Include images and diagrams.
