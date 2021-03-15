@@ -1,11 +1,11 @@
 # Code Review
 
-## What is Code Review?
+## _What is Code Review?_
 Code review is a software quality assurance activity where by source code is viewed and assessed by one or several people. Code reviews occur when there is a completion of a software develeopment feature or as a safeguard in prevention of errors. At least one of the persons must not be the code's author. Code review is a common practice adopted in software development to improve software code quality based on static code analysis by peers and automated reviewers. There are studies that provide evidence that it reduces the number of defects detected after release
 
 # Code Review Process
- [Article](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
-![Code review process](code_review_process.png)
+
+![Code review process](https://www.researchgate.net/publication/328541762/figure/fig1/AS:686040184528896@1540576134082/Overview-of-the-Code-Review-Process.png)
 
 - Author sends piece of code to be reviewed
 - Code is analaysed and assessed by an automated reviewer based on criteria such as complexity, compilation lack of documentation and failed unit tests
@@ -14,12 +14,13 @@ Code review is a software quality assurance activity where by source code is vie
  **2. The changes can be implemented**
 - If the piece of code is up to standard and has been analysed by all team members, it can be accepted for merging to the main branch.
 
+Article:  [Investigating the effectiveness of peer code review in distributed software development based on objective and subjective data](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
 
 ## Anecdotal Resources
 
 There are many forms of evidence online to portray the importance of code review, and the consequences of not having code up to standard. Code reviewers are very harsh when it comes to critiquing.
 
-![The Fussy Reviewer](code_reviewer_image.png)
+![The Fussy Reviewer](https://hsto.org/webt/q6/lg/lo/q6lglosnajv9qo3mrnrvptucdxi.png)
 
 The following quote is extracted from ['I ruin developers’ lives with my code reviews and I'm sorry'](https://habr.com/en/post/440736/) by Philipp Ranzhin.
 
@@ -40,7 +41,7 @@ To further strengthen our points on the importance on code reviews here is a quo
 > Best practices we follow to have smooth and painless code review include defining short user stories, generating short code review tasks (in terms of time), combining code review with functional testing, and performing non-blocking code reviews.
 
 # Why we review code?
-[Article](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
+
 The following are reasons why companies and individuals should implement code reviews processes into their projects.
 
 1. Consistant design and implementation
@@ -49,6 +50,7 @@ The following are reasons why companies and individuals should implement code re
 4. Improving code performance
 5. Sharing new techniques
 
-[Article](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
 Code review helps give a fresh set of eyes to identify bugs and simple coding errors before your product gets to the next step, making the process for getting the software to the customer more efficient. Simply reviewing someone’s code and identifying errors is great. However, when it comes to the code peer review process there also needs to be a level of follow-up and accountability. Make sure there is process in place for checking back in to confirm code discrepancies have been addressed before moving into production.
+
+Article: [5 reasons why the code review process is critical for developers](https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great.)
 
