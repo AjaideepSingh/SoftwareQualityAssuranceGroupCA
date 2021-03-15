@@ -45,10 +45,10 @@ Once the above 4 points are taken into consideration a team can begin to draft t
  
 
 ## 2. Indentation
-* Correct indentation is very important to increase the readability of your code. 
-* For making the code readable, you should use white spaces properly. 
-* Each nested block should be properly spaces and indented.  
-* All braces should start from a new line and the code following the end of braces also start from a new line.  
+* Making code more readable one should use white spaces properly. 
+* Correct indentation is very important to increase the readability of ones code. 
+* All braces should start from a new line and the code following the end of braces also should start from a new line.  
+* Each nested block should be indented and spaced correctly.
 
 
 #### SonarQube
