@@ -15,9 +15,51 @@ The following are points you must note when following Coding Standards.
 3. How are you commenting in the code base?
 4. Have you wrote more efficient code that is quicker to write but harder to understand?
 
-Once the aboce 4 points are taken into consideration a team can begin to draft their Coding Standards document.
+Once the above 4 points are taken into consideration a team can begin to draft their Coding Standards document.
+
+
 
 # Benefits of Coding Standards
 
+*  ### Efficiency 
+     * Implementing coding standards would help the team to detect the problems early or even prevent them completely. This will increase efficiency throughout the software process.
+
+*  ###  Risk of project failure is reduced
+     * Many times it happens that IT projects fail due to problems while developing software.
+     * Implementing the coding standards reduces many problems and the risk of project failures.
+     
+*  ### Maintainability
+    * If the coding standards are followed, the code is consistent and can be easily
+     maintained. This is because anyone can understand it and can modify it at any point in time.
+*  ### Identify Errors
+    * It becomes really easy to locate and correct bugs in the software if the source code is    written in a consistent manner. 
+    
+
+
 
 ## Anecdotal Resources
+
+
+## 1. Readability
+ * Readability in software programming can be defined by the ease with which the software is read and understood. Readability of software can be somewhat objective
+ 
+
+## 2. Indentation
+* Correct indentation is very important to increase the readability of your code. 
+* For making the code readable, you should use white spaces properly. 
+* Each nested block should be properly spaces and indented.  
+* All braces should start from a new line and the code following the end of braces also start from a new line.  
+
+
+#### SonarQube
+
+* SonarQube empowers all developers to write cleaner and safer code.
+* It is an automatic code review tool that detects bugs, vulnerabilities and other potential issues in source code.
+* It can be used to assist in maintaining a particular Coding Standard.
+
+![Sonar](https://dx.appirio.com/quality-sonarqube/granting-permissions/SonarQube-ProjectDashboard-1.png)
+
+### References
+
+<https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/>
+
