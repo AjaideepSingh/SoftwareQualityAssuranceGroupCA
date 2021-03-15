@@ -56,6 +56,8 @@ safety net.
 
 #### Top-down approach
 
+![top_down](https://cdn.corporatefinanceinstitute.com/assets/Screen-Shot-2018-05-11-at-3.39.54-PM.png)
+
 A 'top-down' approach to task estimation ignores the traditional techniques to allocating tasks by assigning teams to tasks with a timeframe. This occurs before the entire project's time estimate is taken into account,  This is a bottom-up approach. A top-down approach accounts for potential pitfalls the project may run into based on previous data. It uses various models to do this which can accurately estimate **time, cost, effort**, and other factors.
 
 The following is an extract from an [Artcile](https://www.infoq.com/articles/software-estimation-important/) that discusses this topic:
@@ -68,13 +70,13 @@ The following is an extract from an [Artcile](https://www.infoq.com/articles/sof
 
 To reduce the inital intimidation and messiness that may come with starting a large new project, Project Managers are advised to focus only on Five Core Metrics to deliver accurate and credible estimates:
 
-_**1. Duration**_
-_**2. Effort**_
-_**3. Size**_
-_**4. Productivity**_
-_**5. Reliability**_
+1. _**Duration**_
+2. _**Effort**_
+3. _**Size**_
+4. _**Productivity**_
+5. _**Reliability**_
 
 Larry Putnam Sr., who wrote a book on these Five Metrics had the following argument:
 
-> simplifying the estimation process and tuning into the areas that truly matter can help managers better assess risk factors, anticipate and respond to changes, and successfully re-plan their projects as necessary. 
+> by simplifying the estimation process and tuning into the areas that truly matter can help managers better assess risk factors, anticipate and respond to changes, and successfully re-plan their projects as necessary. 
 > It addresses the common misperception that software project estimation is too hard and complicated. That certainly does not have to be the case.
