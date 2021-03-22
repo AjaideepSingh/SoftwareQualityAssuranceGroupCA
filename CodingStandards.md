@@ -37,7 +37,6 @@ Once the above 4 points are taken into consideration a team can begin to draft t
 
 
 
-## Anecdotal Resources
 
 
 ## 1. Readability
