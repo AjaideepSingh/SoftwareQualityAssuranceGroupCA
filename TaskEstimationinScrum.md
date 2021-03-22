@@ -60,7 +60,7 @@ safety net.
 
 A 'top-down' approach to task estimation ignores the traditional techniques to allocating tasks by assigning teams to tasks with a timeframe. This occurs before the entire project's time estimate is taken into account,  This is a bottom-up approach. A top-down approach accounts for potential pitfalls the project may run into based on previous data. It uses various models to do this which can accurately estimate **time, cost, effort**, and other factors.
 
-The following is an extract from an [Artcile](https://www.infoq.com/articles/software-estimation-important/) that discusses this topic:
+The following is an extract from an [Article](https://www.infoq.com/articles/software-estimation-important/) that discusses this topic:
 
 > Managers can run “what if” scenarios to account for various challenges that may occur throughout the course of development (i.e., “What if we run over budget?” or “What if we have to do some re-work?”).
 > They can then make adjustments as necessary before work commences, potentially saving significant time and money in the long run.
@@ -68,7 +68,7 @@ The following is an extract from an [Artcile](https://www.infoq.com/articles/sof
 
 #### Focus on Five Core Metrics
 
-To reduce the inital intimidation and messiness that may come with starting a large new project, Project Managers are advised to focus only on Five Core Metrics to deliver accurate and credible estimates:
+To reduce the initial intimidation and messiness that may come with starting a large new project, Project Managers are advised to focus only on Five Core Metrics to deliver accurate and credible estimates:
 
 1. _**Duration**_
 2. _**Effort**_
