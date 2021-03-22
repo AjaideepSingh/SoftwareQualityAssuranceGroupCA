@@ -40,7 +40,7 @@ Once the above 4 points are taken into consideration a team can begin to draft t
 
 
 ## 1. Readability
- * Readability in software programming can be defined by the ease with which the software is read and understood. Readability of software can be somewhat objective
+ * Readability in software programming can be defined by the ease with which the software is read and understood. Readability of software can be somewhat objective.
  
 
 ## 2. Indentation
